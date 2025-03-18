@@ -67,6 +67,6 @@ public class Resistores {
             }
         }
 
-        System.out.println(resistencia);
+        System.out.println("Resistência" + resistencia);
     }
 }
