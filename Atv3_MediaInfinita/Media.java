@@ -15,7 +15,7 @@ class Media {
             if(valor != -1) {
                 valorFinal = valorFinal + valor;
                 i++;
-                media = (float) (valorFinal / i);
+                media = (float) valorFinal / i;
 
                 if(i == 1) {
                     maior = valor;
